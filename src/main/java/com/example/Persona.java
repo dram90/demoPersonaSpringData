@@ -6,9 +6,6 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import java.util.Locale;
 
-/**
- * Created by professor on 20/06/2016.
- */
 @Entity
 public class Persona {
     @Id

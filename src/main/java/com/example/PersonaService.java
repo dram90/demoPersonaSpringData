@@ -4,9 +4,6 @@ import org.hibernate.service.spi.InjectService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * Created by professor on 20/06/2016.
- */
 @Service
 public class PersonaService {
     @Autowired
